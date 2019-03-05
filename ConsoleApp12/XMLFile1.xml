@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <f:note xmlns:f="http://logbook.itstep.org" date="10/01/2008">
+    <f:to>Tove</f:to>
+    <f:from>Jani</f:from>
+    <f:heading>Напоминание</f:heading>
+    <f:body>Не забудь обо мне в эти выходные!</f:body>
+  </f:note>
+
+  <n:note xmlns:n="http://logbook.itstep.org">
+    <n:date>10/01/2008</n:date>
+    <n:to>Tove</n:to>
+    <n:from>Jani</n:from>
+    <n:heading>Напоминание</n:heading>
+    <n:body>Не забудь обо мне в эти выходные!</n:body>
+  </n:note>
+</root>
